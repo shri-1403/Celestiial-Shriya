@@ -1,0 +1,21 @@
+{
+    "name": "celestial-shriya",
+    "displayName": "Celestial Shriya",
+    "description": "Celestial VS Code Theme Shriya",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Celestial Shriya",
+                "uiTheme": "hc-black",
+                "path": "./themes/Celestial Shriya-color-theme.json"
+            }
+        ]
+    }
+}
